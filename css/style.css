@@ -1,0 +1,151 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section {
+
+    background-color: white;
+    padding-bottom: 10px;
+}
+
+#testo-logo {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 240%;
+
+    border-bottom: 200px;
+    padding-top: 80px;
+    margin-top: 20px;
+}
+
+body {
+
+    background-color: rgb(244, 245, 247);
+    margin-left: 30px;
+}
+
+.buttons {
+
+    padding-left: 250px;
+    padding-top: 100px;
+    background-color: white
+}
+
+.body-class {
+
+    margin-left: 0px;
+}
+
+#today-bold {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+#new-task-bold {
+
+
+    font-family: verdana;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#upcoming-bold {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+#btn-task {
+    color: white;
+    width: 80px;
+    padding: 6px;
+    border-radius: 8px;
+    background-color: rgb(54, 164, 255);
+    border-color: rgb(54, 164, 255);
+}
+
+#btn-section {
+    width: 90px;
+    padding: 6px;
+    border-radius: 8px;
+
+    border-color: rgb(211, 211, 211);
+}
+
+#label-editorial {
+color: white;
+font-size: 12px;
+    background-color: rgb(54, 164, 255);
+    border-radius: 5px;
+}
+
+#label-q1-goals {
+    font-size: 12px;
+    color: white;
+    background-color: blueviolet;
+    border-radius: 5px;
+}
+
+#label-recruiting {
+    font-size: 12px;
+    color: white;
+    background-color: chartreuse;
+    border-radius: 5px;
+}
+
+#label-mobile {
+    font-size: 12px;
+    color: white;
+    background-color: orange;
+    border-radius: 5px;
+}
+
+#label-website {
+    font-size: 12px;
+    color: white;
+    background-color: rgb(163, 6, 177);
+    border-radius: 5px;
+}
+
+#label-sales {
+    font-size: 12px;
+    color: white;
+    background-color: rgb(7, 156, 64);
+    border-radius: 5px;
+}
+
+main {
+    padding: 30px 100px;
+}
+
+
+
+#main-section {
+    padding: 18px;
+    padding-left: 40px;
+    background-color: white;
+    border-left: 20px;
+    padding-bottom: 55px;
+
+
+}
+
+
+#section-buttons {
+
+    padding-bottom: 20px;
+    padding-left: 40px;
+}
+
+
+span {
+
+    font-family: verdana;
+}
+
+div {
+
+    font-family: verdana;
+}
