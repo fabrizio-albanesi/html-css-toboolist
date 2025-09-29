@@ -17,19 +17,19 @@ section {
     padding-bottom: 10px;
     height: 0px;
     width: 0px;
-    
+
 }
 
 img {
 
     padding-left: 20px;
-   margin-top: 10px;
+    margin-top: 10px;
 }
 
 #testo {
 
-padding-left: 100px;
-  font-family: Arial, Helvetica, sans-serif;
+    padding-left: 100px;
+    font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     font-size: 240%;
 
@@ -41,26 +41,125 @@ padding-left: 100px;
 body {
 
     background-color: rgb(244, 245, 247);
+
 }
 
 main {
 
     background-color: white;
-    
+    height: 80px;
+}
+
+#main-section {
+
+    background-color: white;
+    height: 680px;
+    margin-left: 180px;
+    margin-right: 180px;
+
+
 }
 
 #blue-button {
 
-padding: 6px 14px;
-margin-left: 220px;
-margin-top: 110px;
-background-color: rgb(54, 164, 255);
+    color: white;
+    padding: 6px 14px;
+    margin-left: 40px;
+    margin-top: 110px;
+    margin-bottom: 10px;
+    background-color: rgb(54, 164, 255);
+    border-radius: 8px;
+    border-color: rgb(34, 194, 212);
+
 }
 
 #grey-button {
 
-padding: 6px 14px;
-margin-left: 5px;
-margin-top: 110px;
-background-color: white;
+    color: grey;
+    padding: 6px 14px;
+
+    margin-top: 110px;
+    margin-bottom: 10px;
+    background-color: white;
+    border-radius: 8px;
+    border-color: rgb(150, 150, 150);
+}
+
+.parola-menu {
+
+
+    padding-left: 70px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 22px;
+
+}
+
+.sotto-menu {
+
+    padding-left: 70px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+hr {
+
+
+    margin-bottom: 40px;
+
+}
+
+#label-editorial {
+
+    padding: 5px 5px;
+    font-size: 12px;
+    color: white;
+    background-color: rgb(54, 164, 255);
+    border-radius: 10px;
+
+}
+
+#label-q1-goals {
+
+    padding: 5px 5px;
+    font-size: 12px;
+    color: white;
+    background-color: blueviolet;
+    border-radius: 10px;
+}
+
+#label-recruiting {
+
+    padding: 5px 5px;
+    font-size: 12px;
+    color: white;
+    background-color: chartreuse;
+    border-radius: 10px;
+}
+
+#label-mobile {
+
+    padding: 5px 5px;
+    font-size: 12px;
+    color: white;
+    background-color: orange;
+    border-radius: 10px;
+}
+
+#label-website {
+
+    padding: 5px 5px;
+    font-size: 12px;
+    color: white;
+    background-color: rgb(163, 6, 177);
+    border-radius: 10px;
+}
+
+#label-sales {
+
+    padding: 5px 5px;
+    font-size: 12px;
+    color: white;
+    background-color: rgb(7, 156, 64);
+    border-radius: 10px;
 }
